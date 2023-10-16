@@ -49,6 +49,7 @@
 #bio-container h2{
     margin-bottom: 25px;
 }
+
 #bio-container p {
     margin-bottom: 20px;
 }
@@ -85,9 +86,11 @@
     display: flex;
     justify-content: center;
 }
+
 #email-container ion-icon, #email-container a {
     flex: 1 1 0;
 }
+
 #email-container a {
     color: var(--main-text-color);
     text-decoration: none;
@@ -133,6 +136,7 @@
     text-align: center;
     display: flex;
 }
+
 #btn-projetcs ion-icon, #btn-projetcs span {
     flex: 1 1 0;
 }
@@ -170,6 +174,7 @@
     padding-left: 10px;
     border-left: 5px solid var(--main-color);
 }
+
 .skills-box i {
     font-size: 35px;
     margin-right: 10px;
